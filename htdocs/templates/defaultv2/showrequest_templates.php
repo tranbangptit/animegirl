@@ -1,0 +1,3 @@
+<?php
+$html .= '<div class="item"><div class="details"><div class="meta"><cite><span><a href="'.$web_link.'/asked/'.$requestSLUG.'.html" '.$iscl.'>'.$requestNAME.'</a></span> says: </cite><time>'.$requestTime.'</time><tool id="'.$requestID.'" title="Trả lời bình luận của '.$requestNAME.'" rel="'.$requestNAME.'">Trả lời</tool></div><div class="message">'.$requestContent.'</div>'.$reply.'</div></div>';
+?>

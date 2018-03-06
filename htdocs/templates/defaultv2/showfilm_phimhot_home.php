@@ -1,0 +1,3 @@
+<?
+$html .='<div class="inner"> <a class="poster" href="'.$filmURL.'" title="'.$filmNAMEVN.' - '.$filmNAMEEN.'"> <img src="'.$filmIMG.'" alt="'.$filmNAMEVN.'"> <i class="hidden-xs hidden-sm"></i> </a>  <span class="status">'.$filmSTATUS.' '.$filmLANG.'</span>   <a class="name" href="'.$filmURL.'" title="'.$filmNAMEVN.' - '.$filmNAMEEN.'">'.$filmNAMEVN.'</a> <dfn>'.$filmNAMEEN.'</dfn> <dfn>'.$filmYEAR.'</dfn> </div>';
+?>

@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:146:"<jwplayer:source file="https://lh3.googleusercontent.com/iDyxADyZ6y4fAsPsHpHwV8J9O4ereIdvoO2owyC7U-k=m18" label="360" type="mp4" default="true" />";s:10:"write_time";s:10:"1456809560";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1456895960;}

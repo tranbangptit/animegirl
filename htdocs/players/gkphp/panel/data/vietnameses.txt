@@ -1,0 +1,16 @@
+﻿			Việt Nam
+			
+	Code Gmanager Mod by Tmc
+ + Có gì mới?
+	- Hạn chế đăng nhập nếu đăng nhập sai.
+	- Lưu cookie ko đc -> lưu session
+	- Giao diện wapftp quen thuộc.
+	- Sửa văn bản theo trang, ( sửa 50 dòng 1 trang, tùy chỉnh).
+	- Bảo mật hơn về dử liệu luuw vào trình duyệt.
+	- ...
+ + Mod ver.
+	- 1.0 6.2013
+	- 2.0 12.2013
+	- 2.1 23.02.2014 ( ổn định nhất, phiên bản cuối cùng)
+ + Gmanager.
+	- 0.8.1 beta

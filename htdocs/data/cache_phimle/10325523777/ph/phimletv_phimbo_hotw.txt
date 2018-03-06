@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6896:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-_9cCK6DnwWY/VZX8tBxnYyI/AAAAAAAAIuM/H2pg47ldSDE/s200/one_piece__east_blue_poster_by_soundestguitar-d4rktxf.jpg" alt="Đảo Hải Tặc"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/dao-hai-tac-391/" title="Đảo Hải Tặc">Đảo Hải Tặc</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 700 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-Ss69__PkX50/VZlMEhhmGLI/AAAAAAAAIzg/sm9yfw2dgG0/s200/WeGotMarried_zps59eeba6f.jpg" alt="Cặp Đôi Mới Cưới: Song Jae Rim Và Kim So Eun"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/cap-doi-moi-cuoi-song-jae-rim-va-kim-so-eun-2605/" title="Cặp Đôi Mới Cưới: Song Jae Rim Và Kim So Eun">Cặp Đôi Mới Cưới: Song Jae Rim Và Kim So Eun</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 38 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://lh4.googleusercontent.com/-iW5qkkMGkpI/VS_LNTqTokI/AAAAAAAAAk4/kR1beKGxXnc/s200/phimletv-The-100-Season-1-2014.jpg" alt="100 người thử nghiệm (Sống sót) - Phần 1"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/100-nguoi-thu-nghiem-song-sot-phan-1-283/" title="100 người thử nghiệm (Sống sót) - Phần 1">100 người thử nghiệm (Sống sót) - Phần 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (13/13) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://lh6.googleusercontent.com/-Ge_t9HheBKo/VS_SZZFpuuI/AAAAAAAAA2Y/nqApW43-XkQ/s200/phimletv-Come-Home-Love-2014.jpg" alt="Mái Ấm Gia Đình"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/mai-am-gia-dinh-425/" title="Mái Ấm Gia Đình">Mái Ấm Gia Đình</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 528/500 Lồng tiếng</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-K7KJ94Lgw_s/Vkm9BoSUAcI/AAAAAAAAQeM/RxY5Fo42Gms/s200/6.jpg" alt="Phẩm Giá Yêu Đơn Phương"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/pham-gia-yeu-don-phuong-3554/" title="Phẩm Giá Yêu Đơn Phương">Phẩm Giá Yêu Đơn Phương</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (20/20) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-NhpY0viog5s/VfgqXeGKfrI/AAAAAAAANR0/oEX7hy-IeuQ/s200/narcos0003.jpg" alt="Trùm ma túy (Cái chết trắng) Phần 1"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/trum-ma-tuy-cai-chet-trang-phan-1-3243/" title="Trùm ma túy (Cái chết trắng) Phần 1">Trùm ma túy (Cái chết trắng) Phần 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (10/10) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-YH6j8Qj1Uus/VayNMK0PxzI/AAAAAAAAJcY/AhVZcY7KqI0/s200/rhino-running-man-2013-2013-full-ep-quan-ji-online-free-download-online-watch-korean-drama-poster-1.jpg" alt="Người Cha Chạy Trốn"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/nguoi-cha-chay-tron-807/" title="Người Cha Chạy Trốn">Người Cha Chạy Trốn</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 282 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://lh6.googleusercontent.com/-5mbq1-0EdOM/VSvvT4yHEyI/AAAAAAAAJQs/DNSMytzawn0/s200/phimletv-wuzhua11.jpg" alt="Võ Tắc Thiên Truyền Kỳ"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/vo-tac-thien-truyen-ky-577/" title="Võ Tắc Thiên Truyền Kỳ">Võ Tắc Thiên Truyền Kỳ</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (96/96) VietSub + TM</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-3NANtsMOvVk/VofYe4-So5I/AAAAAAAAVCo/14tvjNyc5v8/s200/lua-han-tinh-thu-yellow-boots-2012.jpg" alt="Lửa Hận Tình Thù"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/lua-han-tinh-thu-7672/" title="Lửa Hận Tình Thù">Lửa Hận Tình Thù</a> <dfn class="status"><i class="fa fa-quote-left"></i> 108/108 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/--1il6Bi0ipI/VbMNgMEMubI/AAAAAAAAJok/chp2gXZAWyc/s200/Jay-Park-shin-dong-yup_1393550202_af_org.jpg" alt="Hài Bựa Korea"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/hai-bua-korea-2674/" title="Hài Bựa Korea">Hài Bựa Korea</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 91 VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1454081511";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1454167911;}

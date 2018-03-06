@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6571:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-Nb4W2rjVc3k/VXwlmYtW6sI/AAAAAAAAH-U/lO8hwMVEmME/s200/gigolo_20861427081589.jpg" alt="Trai Bao"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/trai-bao-2367/" title="Trai Bao">Trai Bao</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-w2XhCoWqEV0/VoTqznCFlfI/AAAAAAAAUNI/C2Xj5VvcHM4/s200/18-Young-Mother-3-2015-719x1024.jpg" alt="Bà Mẹ Trẻ 2"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/ba-me-tre-2-2159/" title="Bà Mẹ Trẻ 2">Bà Mẹ Trẻ 2</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-LbJPkWK9FUY/VqcwEBPQs8I/AAAAAAAABhc/RKC9874Jq8s/s200/phim-boarding-house-2-2015--nha-tro-lang-nhang-18.48534.big.jpg" alt="Nhà Trọ Lăng Nhăng 2"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/nha-tro-lang-nhang-2-8399/" title="Nhà Trọ Lăng Nhăng 2">Nhà Trọ Lăng Nhăng 2</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-3wFpbSzehfU/Vqcpu5LQIfI/AAAAAAAABf0/reuQCTrBuc4/s200/1453289318_ch7kcq6rh0lx.jpg" alt="Nàng Kim Liên Vui Tính"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/nang-kim-lien-vui-tinh-8398/" title="Nàng Kim Liên Vui Tính">Nàng Kim Liên Vui Tính</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-OJj8lXGhr3c/VpIpsNGmHZI/AAAAAAAAAO4/tqAdeDWqN5o/s200/photo658767.jpg" alt="Người Chị Dâu Tốt Bụng / Người Chị Trẻ"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/nguoi-chi-dau-tot-bung-nguoi-chi-tre-8098/" title="Người Chị Dâu Tốt Bụng / Người Chị Trẻ">Người Chị Dâu Tốt Bụng / Người Chị Trẻ</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-uVt4uEP2g24/VpW8ovDT9hI/AAAAAAAAAZQ/kdROeFpN6EM/s200/the-last-witch-hunter-poster02.jpg" alt="Chiến binh săn phù thủy"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/chien-binh-san-phu-thuy-3326/" title="Chiến binh săn phù thủy">Chiến binh săn phù thủy</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-wCTqbdN2mIg/VjuKD7jtU4I/AAAAAAAAQPQ/lBhNsrUTF_c/s200/ce0d8b9ae302c97893aa5d12a42267f7114913.jpg" alt="Phòng Của Chị Tôi 18+"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/phong-cua-chi-toi-18-3520/" title="Phòng Của Chị Tôi 18+">Phòng Của Chị Tôi 18+</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-HzkgTqIxdcQ/VoyfbM68swI/AAAAAAAAcmM/7DJnEcdoiZs/s200/9191626073_2175c4bbfd_b.jpg" alt="Tân Kim Bình Mai 3D"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/tan-kim-binh-mai-3d-8050/" title="Tân Kim Bình Mai 3D">Tân Kim Bình Mai 3D</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-DkJoUPe-FFs/Vn_O1-iXHJI/AAAAAAAATTc/9cCqjf6Xobw/s200/Young-Mother-3_poster_goldposter_com_1.jpg" alt="Nguời Mẹ Trẻ 3"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/nguoi-me-tre-3-3782/" title="Nguời Mẹ Trẻ 3">Nguời Mẹ Trẻ 3</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://lh3.googleusercontent.com/-R3-RDWUHQmY/VoswBNar5cI/AAAAAAAAcho/z06pj-BWDUI/s200/hz5WaAhyGKRcAZJnNyYS9q7F66E.jpg" alt="Quan Hệ Chung / Đổi Tình"> </div>
+                                            <div class="info"> <a class="name" href="http://www.phimle.tv/phim/quan-he-chung-doi-tinh-8039/" title="Quan Hệ Chung / Đổi Tình">Quan Hệ Chung / Đổi Tình</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1454081511";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1454167911;}

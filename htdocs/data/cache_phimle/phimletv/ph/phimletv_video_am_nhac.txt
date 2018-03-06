@@ -1,0 +1,127 @@
+a:4:{s:5:"value";s:6406:"<div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">04:25</span>
+					<a href="http://www.phimle.tv/xem-video/quen-lee-kirby-847.html" 
+						title="Video clip Quên - Lee Kirby">
+						<img alt="Video clip Quên - Lee Kirby" src="http://i.ytimg.com/vi/rVOhE9N5sdM/mqdefault.jpg">
+						<div class="description-clip">Quên - Lee Kirby</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/quen-lee-kirby-847.html" 
+					title="Video clip Quên - Lee Kirby"><strong>Quên - Lee Kirby</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">323</span>
+				</div>
+			</div>
+ 		
+	</div><div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">53:19</span>
+					<a href="http://www.phimle.tv/xem-video/victorias-secret-fashion-show-2015-full-video-hd-1080p-835.html" 
+						title="Video clip Victoria's secret Fashion Show 2015 Full Video Hd 1080p ">
+						<img alt="Video clip Victoria's secret Fashion Show 2015 Full Video Hd 1080p " src="http://i.ytimg.com/vi/01xHX3_0fxQ/mqdefault.jpg">
+						<div class="description-clip">Victoria's secret Fashion Show 2015 Full Video Hd 1080p </div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/victorias-secret-fashion-show-2015-full-video-hd-1080p-835.html" 
+					title="Video clip Victoria's secret Fashion Show 2015 Full Video Hd 1080p "><strong>Victoria's secret Fashion Show 2015 Full Video Hd 1080p </strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">83</span>
+				</div>
+			</div>
+ 		
+	</div><div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">04:25</span>
+					<a href="http://www.phimle.tv/xem-video/mv-craze-chau-dang-khoa-ft-karik-official-800.html" 
+						title="Video clip MV Craze - Châu Đăng Khoa ft Karik [Official]">
+						<img alt="Video clip MV Craze - Châu Đăng Khoa ft Karik [Official]" src="http://i.ytimg.com/vi/EzmQ89SgDV0/mqdefault.jpg">
+						<div class="description-clip">MV Craze - Châu Đăng Khoa ft Karik [Official]</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/mv-craze-chau-dang-khoa-ft-karik-official-800.html" 
+					title="Video clip MV Craze - Châu Đăng Khoa ft Karik [Official]"><strong>MV Craze - Châu Đăng Khoa ft Karik [Official]</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">96</span>
+				</div>
+			</div>
+ 		
+	</div><div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">04:17</span>
+					<a href="http://www.phimle.tv/xem-video/em-khong-nhu-truoc-hoang-oanh-official-801.html" 
+						title="Video clip Em Không Như Trước - Hoàng Oanh [Official]">
+						<img alt="Video clip Em Không Như Trước - Hoàng Oanh [Official]" src="http://i.ytimg.com/vi/qieB6sCHrj4/mqdefault.jpg">
+						<div class="description-clip">Em Không Như Trước - Hoàng Oanh [Official]</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/em-khong-nhu-truoc-hoang-oanh-official-801.html" 
+					title="Video clip Em Không Như Trước - Hoàng Oanh [Official]"><strong>Em Không Như Trước - Hoàng Oanh [Official]</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">73</span>
+				</div>
+			</div>
+ 		
+	</div><div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">04:57</span>
+					<a href="http://www.phimle.tv/xem-video/nhu-mot-con-me-khanh-binh-ft-thuy-duong-official-802.html" 
+						title="Video clip Như Một Cơn Mê - Khánh Bình ft Thùy Dương [Official]">
+						<img alt="Video clip Như Một Cơn Mê - Khánh Bình ft Thùy Dương [Official]" src="http://i.ytimg.com/vi/_s7e8kEAPk4/mqdefault.jpg">
+						<div class="description-clip">Như Một Cơn Mê - Khánh Bình ft Thùy Dương [Official]</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/nhu-mot-con-me-khanh-binh-ft-thuy-duong-official-802.html" 
+					title="Video clip Như Một Cơn Mê - Khánh Bình ft Thùy Dương [Official]"><strong>Như Một Cơn Mê - Khánh Bình ft Thùy Dương [Official]</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">59</span>
+				</div>
+			</div>
+ 		
+	</div><div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">05:23</span>
+					<a href="http://www.phimle.tv/xem-video/chang-trai-si-tinh-tran-quang-dai-ft-khanh-duy-khuong-official-803.html" 
+						title="Video clip Chàng Trai Si Tình - Trần Quang Đại ft Khánh Duy Khương [Official]">
+						<img alt="Video clip Chàng Trai Si Tình - Trần Quang Đại ft Khánh Duy Khương [Official]" src="http://i.ytimg.com/vi/eEXYUu774Is/mqdefault.jpg">
+						<div class="description-clip">Chàng Trai Si Tình - Trần Quang Đại ft Khánh Duy Khương [Official]</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://www.phimle.tv/xem-video/chang-trai-si-tinh-tran-quang-dai-ft-khanh-duy-khuong-official-803.html" 
+					title="Video clip Chàng Trai Si Tình - Trần Quang Đại ft Khánh Duy Khương [Official]"><strong>Chàng Trai Si Tình - Trần Quang Đại ft Khánh Duy Khương [Official]</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">Phạm Dy Nghĩa</span>
+					<span class="play-icon">59</span>
+				</div>
+			</div>
+ 		
+	</div>";s:10:"write_time";s:10:"1456806935";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1456893335;}

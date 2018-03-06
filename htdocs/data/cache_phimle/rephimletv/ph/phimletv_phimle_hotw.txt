@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6527:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-nsO8wpq3TG0/Vy8pk9BtiOI/AAAAAAAABKI/r1759akMPZs/s200/grotesque-2009.jpg" alt="Hành Xác"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/hanh-xac-8959/" title="Hành Xác">Hành Xác</a> <dfn class="status"><i class="fa fa-quote-left"></i> Hoàn Tất VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-cgMraxyqN7s/Vi-rk9j_TkI/AAAAAAAAP5Y/9SDPGbIeT1A/s200/1.jpg" alt="Những món quà/ Bí mật rùng rợn"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/nhung-mon-qua-bi-mat-rung-ron-3461/" title="Những món quà/ Bí mật rùng rợn">Những món quà/ Bí mật rùng rợn</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-kRV6HBIXgZA/Vy9ThWFQaaI/AAAAAAAABLo/lyxCHdjt-S0/s200/zthGmQJXjvV25lNFc2CBRhLm9Sq.jpg" alt="Bệnh Viện Ác Nhân"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/benh-vien-ac-nhan-8962/" title="Bệnh Viện Ác Nhân">Bệnh Viện Ác Nhân</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-EGSs-6Wv0aw/Vy80wcb3HbI/AAAAAAAABK4/Du7qZLZJsLY/s200/18-House-With-A-Beautiful-View-2-2015.jpg" alt="Ngôi nhà sung sướng 2"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/ngoi-nha-sung-suong-2-8961/" title="Ngôi nhà sung sướng 2">Ngôi nhà sung sướng 2</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-iPxkiIpQRQM/VlqESDDkwJI/AAAAAAAASME/BO0aB-kq2eI/s200/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX640_SY720_.jpg" alt="Người Chim"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/nguoi-chim-2176/" title="Người Chim">Người Chim</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-NuB0CuFYggg/VSvx9tCU8xI/AAAAAAAAJR0/wSTJNIdAsGA/s200/phimletv-jan-dara-poster.jpg" alt="Mẹ Kế: Đoạn Kết"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/me-ke-doan-ket-580/" title="Mẹ Kế: Đoạn Kết">Mẹ Kế: Đoạn Kết</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-gy6XAw7cALk/VSvyjGUlvII/AAAAAAAAJSE/v6MfGKP0ll8/s200/phimletv-63LXvkj.jpg" alt="Thám Tử Conan Movie 1: Quả Bom Chọc Trời"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/tham-tu-conan-movie-1-qua-bom-choc-troi-581/" title="Thám Tử Conan Movie 1: Quả Bom Chọc Trời">Thám Tử Conan Movie 1: Quả Bom Chọc Trời</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-xhd0kwF9OZQ/VSvy_raXg1I/AAAAAAAAJSU/25zp35mZwmA/s200/phimletv-detective-conan-the-fourteenth-target-movie-poster-1998-1020557087.jpg" alt="Thám Tử Conan Movie 2: Mục Tiêu Thứ 14"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/tham-tu-conan-movie-2-muc-tieu-thu-14-582/" title="Thám Tử Conan Movie 2: Mục Tiêu Thứ 14">Thám Tử Conan Movie 2: Mục Tiêu Thứ 14</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-z4RfLEVad6w/VSv0AUQrWRI/AAAAAAAAJSk/GmalQfd7Pn4/s200/phimletv-REDEMPTION-Poster.jpg" alt="Chim Ruồi"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/chim-ruoi-583/" title="Chim Ruồi">Chim Ruồi</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-0CH3qokX2wU/VSv0vprbxUI/AAAAAAAAJS0/TLR_LKxi9_E/s200/phimletv-fullsizephoto279645.jpg" alt="Bàn Tay Ngoại Cảm"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/ban-tay-ngoai-cam-584/" title="Bàn Tay Ngoại Cảm">Bàn Tay Ngoại Cảm</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1467165658";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1467252058;}

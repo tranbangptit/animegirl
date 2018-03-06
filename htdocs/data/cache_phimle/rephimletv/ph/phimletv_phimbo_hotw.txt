@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6603:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-R4-Cb4jH8V4/VhTkmGneo8I/AAAAAAAAODY/7M0tALdnuGI/s200/FLA2_KeyArt-720x900.jpg" alt="Người hùng tia chớp (Phần 2)"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/nguoi-hung-tia-chop-phan-2-3366/" title="Người hùng tia chớp (Phần 2)">Người hùng tia chớp (Phần 2)</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 21/22 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-KOlWHZ1-ThA/VS-ziuYeffI/AAAAAAAAABc/SstQfbdd0I8/s200/phimletv-Grimm-Season-3-2013.jpg" alt="Săn Lùng Quái Vật 3"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/san-lung-quai-vat-3-1/" title="Săn Lùng Quái Vật 3">Săn Lùng Quái Vật 3</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (22/22) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-s-XNQNgKajc/VS-zkrE3thI/AAAAAAAAABk/3qabPQT037U/s200/phimletv-Hannibal-Season-2-2014.jpg" alt="Hannibal Giáo Sư Ăn Thịt Người 2"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/hannibal-giao-su-an-thit-nguoi-2-2/" title="Hannibal Giáo Sư Ăn Thịt Người 2">Hannibal Giáo Sư Ăn Thịt Người 2</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 12/13 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-IPx6g7r9VSI/VS-znzoGJ0I/AAAAAAAAABs/8bQIQQy5pac/s200/phimletv-The-Secret-World-of-Alex-Mack-Season-1-1994.jpg" alt="Thế giới bí mật của Alex Mack-Phần 1"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/the-gioi-bi-mat-cua-alex-mack-phan-1-3/" title="Thế giới bí mật của Alex Mack-Phần 1">Thế giới bí mật của Alex Mack-Phần 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (13/13) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-AZUvEFTs2Nw/Vlh4sIlbSeI/AAAAAAAASHg/yi_owFp_Swg/s200/Yamada-kun+to+7+nin+no+Majo.jpg" alt="Yamada Và 7 Phù Thủy"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/yamada-va-7-phu-thuy-4/" title="Yamada Và 7 Phù Thủy">Yamada Và 7 Phù Thủy</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (8/8) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-bEaBcoM3W_M/VS-zsESZskI/AAAAAAAAAB8/Vv3xd-_Lub8/s200/phimletv-Strike-Back-Season-1-2010.jpg" alt="Trả Đũa 1"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/tra-dua-1-5/" title="Trả Đũa 1">Trả Đũa 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (6/6) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-rfXTjMj5GUg/VS-zuJ2sPBI/AAAAAAAAACE/suvQfc2gGww/s200/phimletv-Log-Horizon-2013.jpg" alt="Kết Nối Chân Trời"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/ket-noi-chan-troi-6/" title="Kết Nối Chân Trời">Kết Nối Chân Trời</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (25/25) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-gEFhRxipOEA/VcTsiuE-O-I/AAAAAAAAKWA/WlQznUFv6yw/s200/IfYxxxq.jpg" alt="Tình Yêu Bất Diệt"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/tinh-yeu-bat-diet-7/" title="Tình Yêu Bất Diệt">Tình Yêu Bất Diệt</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (11/11) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-WW7vQXt8u94/VS-zxdCMGHI/AAAAAAAAACU/ofjn8dk6hUU/s200/phimletv-Revenge-Season-3-2013.jpg" alt="Báo Thù (Phần 3)"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/bao-thu-phan-3-8/" title="Báo Thù (Phần 3)">Báo Thù (Phần 3)</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 8/24 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-gDmZ_rMhSrg/VS-zzaHLASI/AAAAAAAAACc/qPU8sek-JVI/s200/phimletv-Dating-Agency-Cyrano-2013.jpg" alt="Trung Tâm Mai Mối: Cyrano"> </div>
+                                            <div class="info"> <a class="name" href="http://rephimle.tv/phim/trung-tam-mai-moi-cyrano-9/" title="Trung Tâm Mai Mối: Cyrano">Trung Tâm Mai Mối: Cyrano</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 16/50 VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1467165658";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1467252058;}
